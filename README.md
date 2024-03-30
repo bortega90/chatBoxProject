@@ -4,6 +4,6 @@
 
 
 
-<h1>coffeeBot</h1>
+<h1>CoffeeBot</h1>
 
 <p>I've developed a coffee ordering chatbot prototype leveraging Python's logic. This virtual barista bot guides users through the ordering process, eliciting drink preferences including size and milk type, while calculating the total cost for a seamless user experience.</p>
