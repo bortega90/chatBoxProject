@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/chatBoxProject.iml" filepath="$PROJECT_DIR$/.idea/chatBoxProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openaiChat.iml" filepath="$PROJECT_DIR$/.idea/openaiChat.iml" />
     </modules>
   </component>
 </project>
